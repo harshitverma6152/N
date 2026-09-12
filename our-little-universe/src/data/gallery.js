@@ -1,0 +1,21 @@
+export const gallery = [
+  { id: 1, image: "/images/gallery/photo1.jpg", caption: "My favorite smile." },
+  { id: 2, image: "/images/gallery/photo2.jpg", caption: "One of my favorite memories." },
+  { id: 3, image: "/images/gallery/photo3.jpg", caption: "Us being us. ❤️" },
+  { id: 4, image: "/images/gallery/photo4.jpg", caption: "I could look at this forever." },
+  { id: 5, image: "/images/gallery/photo5.jpg", caption: "You are my world." },
+  { id: 6, image: "/images/gallery/photo6.jpg", caption: "Perfect together." },
+  { id: 7, image: "/images/gallery/photo7.jpg", caption: "Always making me smile." },
+  { id: 8, image: "/images/gallery/photo8.jpg", caption: "My forever person." },
+  { id: 9, image: "/images/gallery/photo9.jpg", caption: "Everything I ever wanted." },
+  { id: 10, image: "/images/gallery/photo10.jpg", caption: "The best times." },
+  { id: 11, image: "/images/gallery/photo11.jpg", caption: "Just us." },
+  { id: 12, image: "/images/gallery/photo12.jpg", caption: "My heart." },
+  { id: 13, image: "/images/gallery/photo13.jpg", caption: "Beautiful moments." },
+  { id: 14, image: "/images/gallery/photo14.jpg", caption: "Forever and always." },
+  { id: 15, image: "/images/gallery/photo15.jpg", caption: "Precious memories." },
+  { id: 16, image: "/images/gallery/photo16.jpg", caption: "Endless love." },
+  { id: 17, image: "/images/gallery/photo17.jpg", caption: "My reason to smile." },
+  { id: 18, image: "/images/gallery/photo18.jpg", caption: "So lucky to have you." },
+  { id: 19, image: "/images/gallery/photo19.jpg", caption: "You and me." }
+];

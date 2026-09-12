@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+@layer base {
+  body {
+    @apply bg-secondary-900 text-white font-sans;
+    overflow-x: hidden;
+  }
+}
+
+@media (pointer: fine) {
+  body, a, button, input, .cursor-pointer {
+    cursor: none !important;
+  }
+}
